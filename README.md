@@ -20,6 +20,11 @@ Check the insturctions [here](https://github.com/ikemen-engine/Ikemen-GO/wiki/Bu
 ### Building on Linux
 Check the instructions [here](https://github.com/ikemen-engine/Ikemen-GO/wiki/Building-on-Linux)
 
+### Building WASM
+Unix run `build/wasm.sh`
+
+Windows run `build/wasm.bat`
+
 ### Debugging
 Download the [Mugen dependencies](https://github.com/ikemen-engine/Ikemen_GO-Elecbyte-Screenpack) and unpack them into the Ikemen-GO source directory.
 Then, use [Goland](https://www.jetbrains.com/go/) or [Visual Studio Code](https://code.visualstudio.com/) to debug.
